@@ -1,21 +1,21 @@
-#IgA-app
+IgA-app
 
 A personalized learning app using AI and gamification to support African students.
 
-##Vision 🎯
+Vision 🎯
 
 Build a smart, engaging, and culturally relevant educational web app tailored to young Africans, offering personalized learning and motivation through gamification and local adaptation.
 
-##Project Origin 💡
+Project Origin 💡
 
 IgA was born during eCamp 2025, a program organized by Yaga Burundi. Our team was formed during this event, where we came together to develop an innovative and accessible learning platform that solves real educational challenges in our communities.
 
-##Why IgA? 🌍
+Why IgA? 🌍
  * To adapt learning to the real needs of African students
  * To provide a personalized and gamified experience that boosts engagement
  * To deliver content that respects local cultures, languages, and tech accessibility
 
-##Core Features (v1) 🔑
+Core Features (v1) 🔑
  * Smart Learning (AI-powered): Content adapts to each learner’s level
  * Gamification inspired by martial arts:
    * A points system for completing tasks
@@ -35,7 +35,7 @@ Long-Term Vision 🚀
  * Regional language integration (web & mobile)
  * Building a strong African edtech community
 
-##Our Team 🤝
+Our Team 🤝
 
 We are a motivated team from a national innovation program, working together to reimagine African education through AI, gamification, and inclusive design.
 
