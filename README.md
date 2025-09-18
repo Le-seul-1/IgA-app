@@ -7,6 +7,7 @@ Vision
 Build a smart, engaging, and culturally relevant educational web app tailored to young Africans, offering personalized learning and motivation through gamification and local adaptation.
 
 Project Origin
+
 IgA was born during ICAmp 2025, a program organized by Yaga Burundi. Our team was formed during this event, where we came together to develop an innovative and accessible learning platform that solves real educational challenges in our communities.
 
 Why IgA?
